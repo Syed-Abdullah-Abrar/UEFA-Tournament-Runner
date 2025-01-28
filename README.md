@@ -5,4 +5,4 @@ This project uses HTML ,CSS and JavaScript to design and build a fully functiona
 <br>
 1. Teams with highest rating (given by user) will win
 <br>
-2. Teams will winn according to computer
+2. Teams will winn according to computer genereted results
